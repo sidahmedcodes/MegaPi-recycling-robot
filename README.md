@@ -1,6 +1,10 @@
 # MegaPi Waste Sorting Robot
 
-<img src="https://github.com/user-attachments/assets/8f4d9fbb-3eb6-45d4-bdd1-94fe202af9d4" alt="IMG_6658" width="500"/>
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/8f4d9fbb-3eb6-45d4-bdd1-94fe202af9d4" alt="IMG_6658" width="500"/>
+  <img src="https://github.com/user-attachments/assets/55a531f4-49c9-4dfa-8db1-4a6ff1c7e3b0" alt="IMG_6653" width="500"/>
+</p>
+
 
 
 ## Hi there!
