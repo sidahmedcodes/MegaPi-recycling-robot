@@ -1,9 +1,9 @@
 # MegaPi Waste Sorting Robot
 
-<p float="left">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/8f4d9fbb-3eb6-45d4-bdd1-94fe202af9d4" alt="IMG_6658" width="500"/>
   <img src="https://github.com/user-attachments/assets/f4ebb26c-ff86-4d0d-ae32-58aac35783ee" alt="IMG_6653" width="500"/>
-</p>
+</div>
 
 
 
