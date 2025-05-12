@@ -1,6 +1,6 @@
 # MegaPi Waste Sorting Robot
 
-![IMG_6658](https://github.com/user-attachments/assets/8f4d9fbb-3eb6-45d4-bdd1-94fe202af9d4 =250x250)
+<img src="https://github.com/user-attachments/assets/8f4d9fbb-3eb6-45d4-bdd1-94fe202af9d4" alt="IMG_6658" width="500"/>
 
 
 ## Hi there!
