@@ -1,4 +1,4 @@
-# 🤖 Autonomous Waste Sorting Robot
+#Autonomous Waste Sorting Robot
 
 ![Robot in action](https://via.placeholder.com/800x400?text=Waste+Sorting+Robot)
 
