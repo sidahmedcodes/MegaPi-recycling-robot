@@ -1,6 +1,7 @@
 # MegaPi Waste Sorting Robot
 
-![Robot in action](https://via.placeholder.com/800x400?text=Waste+Sorting+Robot)
+![IMG_6658](https://github.com/user-attachments/assets/8f4d9fbb-3eb6-45d4-bdd1-94fe202af9d4)
+
 
 ## Hi there!
 
