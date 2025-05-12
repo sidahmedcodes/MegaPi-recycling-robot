@@ -9,7 +9,7 @@
 
 ## Hi there!
 
-Welcome to our project repository! We're Jamie and Alex, two electrical engineering students who tried to build this prototpye of a waste sorting robot for our final year project. We wanted to help solve the global recycling challenge by creating an accessible robotics solution that can identify and sort recyclable materials.
+Haouioui Sid Ahmed and Houhou Mohamed Dhia Eddine, two electrical engineering students who tried to build this prototpye of a waste sorting robot for our final year project. We wanted to help solve the global recycling challenge by creating an accessible robotics solution that can identify and sort recyclable materials.
 
 ## What it does
 
