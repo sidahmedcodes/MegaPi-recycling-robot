@@ -1,12 +1,12 @@
-#Autonomous Waste Sorting Robot
+# MegaPi Waste Sorting Robot
 
 ![Robot in action](https://via.placeholder.com/800x400?text=Waste+Sorting+Robot)
 
-## 👋 Hi there!
+## Hi there!
 
-Welcome to our project repository! We're Jamie and Alex, two engineering students who built this autonomous waste sorting robot for our final year capstone project. We wanted to help solve the global recycling challenge by creating an accessible robotics solution that can identify and sort recyclable materials.
+Welcome to our project repository! We're Jamie and Alex, two electrical engineering students who tried to build this prototpye of a waste sorting robot for our final year project. We wanted to help solve the global recycling challenge by creating an accessible robotics solution that can identify and sort recyclable materials.
 
-## ✨ What it does
+## What it does
 
 Our robot can:
 - Autonomously navigate its environment
@@ -72,8 +72,8 @@ We have several ideas for future improvements:
 - Add a larger capacity battery for longer operation
 - Improve the object detection model with more training data
 - Implement a more sophisticated path planning algorithm
-- Create a web interface for remote monitoring
-- Add sound feedback for more intuitive interaction
+-use lidar camera for inverse kinematics
+-use a tracking lidar camera instead of an ultrasonic
 
 ## 📝 License
 
@@ -82,13 +82,10 @@ This project is open source and available under the MIT License.
 ## 🙏 Acknowledgments
 
 We'd like to thank:
-- Our amazing project advisor, Dr. Johnson, for the guidance and letting us stay in the lab after hours
-- The university's engineering department for providing equipment and funding
-- The open source community for the libraries and tools that made this possible
-- Our fellow students who helped test the robot and gave valuable feedback
+- Our amazing project advisor, Terki Nadjiba, for the guidance and letting us stay in the lab after hours and for providing equipment and funding
 
 ---
 
-*Built with ❤️ by Jamie and Alex*
+*Built with ❤️ by Haouioui Sid Ahmed and Houhou Mohamed Dhia Eddine*
 
-*University of Engineering Excellence, Class of 2023* 
+*University of mohamed khider of biskra, 2025* 
